@@ -1,0 +1,877 @@
+{
+  "leagues": [
+    "Premier League",
+    "La Liga",
+    "Bundesliga",
+    "Serie A",
+    "Ligue 1",
+    "Süper Lig",
+    "Roshn Saudi Pro League"
+  ],
+  "clubs": [
+    {
+      "name": "Arsenal",
+      "league": "Premier League",
+      "sportsDbName": "Arsenal",
+      "aliases": []
+    },
+    {
+      "name": "Aston Villa",
+      "league": "Premier League",
+      "sportsDbName": "Aston Villa",
+      "aliases": []
+    },
+    {
+      "name": "Bournemouth",
+      "league": "Premier League",
+      "sportsDbName": "AFC Bournemouth",
+      "aliases": []
+    },
+    {
+      "name": "Brentford",
+      "league": "Premier League",
+      "sportsDbName": "Brentford",
+      "aliases": []
+    },
+    {
+      "name": "Brighton",
+      "league": "Premier League",
+      "sportsDbName": "Brighton and Hove Albion",
+      "aliases": []
+    },
+    {
+      "name": "Burnley",
+      "league": "Premier League",
+      "sportsDbName": "Burnley",
+      "aliases": []
+    },
+    {
+      "name": "Chelsea",
+      "league": "Premier League",
+      "sportsDbName": "Chelsea",
+      "aliases": []
+    },
+    {
+      "name": "Crystal Palace",
+      "league": "Premier League",
+      "sportsDbName": "Crystal Palace",
+      "aliases": []
+    },
+    {
+      "name": "Everton",
+      "league": "Premier League",
+      "sportsDbName": "Everton",
+      "aliases": []
+    },
+    {
+      "name": "Fulham",
+      "league": "Premier League",
+      "sportsDbName": "Fulham",
+      "aliases": []
+    },
+    {
+      "name": "Leeds United",
+      "league": "Premier League",
+      "sportsDbName": "Leeds United",
+      "aliases": []
+    },
+    {
+      "name": "Liverpool",
+      "league": "Premier League",
+      "sportsDbName": "Liverpool",
+      "aliases": []
+    },
+    {
+      "name": "Manchester City",
+      "league": "Premier League",
+      "sportsDbName": "Manchester City",
+      "aliases": [
+        "man city"
+      ]
+    },
+    {
+      "name": "Manchester United",
+      "league": "Premier League",
+      "sportsDbName": "Manchester United",
+      "aliases": [
+        "man utd",
+        "man united"
+      ]
+    },
+    {
+      "name": "Newcastle United",
+      "league": "Premier League",
+      "sportsDbName": "Newcastle United",
+      "aliases": [
+        "newcastle"
+      ]
+    },
+    {
+      "name": "Nottingham Forest",
+      "league": "Premier League",
+      "sportsDbName": "Nottingham Forest",
+      "aliases": []
+    },
+    {
+      "name": "Sunderland",
+      "league": "Premier League",
+      "sportsDbName": "Sunderland",
+      "aliases": []
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "league": "Premier League",
+      "sportsDbName": "Tottenham Hotspur",
+      "aliases": [
+        "spurs",
+        "tottenham"
+      ]
+    },
+    {
+      "name": "West Ham United",
+      "league": "Premier League",
+      "sportsDbName": "West Ham United",
+      "aliases": [
+        "west ham"
+      ]
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "league": "Premier League",
+      "sportsDbName": "Wolverhampton Wanderers",
+      "aliases": [
+        "wolves"
+      ]
+    },
+    {
+      "name": "Alaves",
+      "league": "La Liga",
+      "sportsDbName": "Deportivo Alaves",
+      "aliases": []
+    },
+    {
+      "name": "Athletic Bilbao",
+      "league": "La Liga",
+      "sportsDbName": "Athletic Bilbao",
+      "aliases": [
+        "athletic club"
+      ]
+    },
+    {
+      "name": "Atletico Madrid",
+      "league": "La Liga",
+      "sportsDbName": "Atlético Madrid",
+      "aliases": []
+    },
+    {
+      "name": "Barcelona",
+      "league": "La Liga",
+      "sportsDbName": "FC Barcelona",
+      "aliases": []
+    },
+    {
+      "name": "Real Betis",
+      "league": "La Liga",
+      "sportsDbName": "Real Betis",
+      "aliases": [
+        "betis"
+      ]
+    },
+    {
+      "name": "Celta Vigo",
+      "league": "La Liga",
+      "sportsDbName": "Celta de Vigo",
+      "aliases": []
+    },
+    {
+      "name": "Elche",
+      "league": "La Liga",
+      "sportsDbName": "Elche",
+      "aliases": []
+    },
+    {
+      "name": "Espanyol",
+      "league": "La Liga",
+      "sportsDbName": "RCD Espanyol",
+      "aliases": []
+    },
+    {
+      "name": "Getafe",
+      "league": "La Liga",
+      "sportsDbName": "Getafe",
+      "aliases": []
+    },
+    {
+      "name": "Girona",
+      "league": "La Liga",
+      "sportsDbName": "Girona",
+      "aliases": []
+    },
+    {
+      "name": "Levante",
+      "league": "La Liga",
+      "sportsDbName": "Levante",
+      "aliases": []
+    },
+    {
+      "name": "Mallorca",
+      "league": "La Liga",
+      "sportsDbName": "RCD Mallorca",
+      "aliases": []
+    },
+    {
+      "name": "Osasuna",
+      "league": "La Liga",
+      "sportsDbName": "CA Osasuna",
+      "aliases": []
+    },
+    {
+      "name": "Rayo Vallecano",
+      "league": "La Liga",
+      "sportsDbName": "Rayo Vallecano",
+      "aliases": []
+    },
+    {
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "sportsDbName": "Real Madrid",
+      "aliases": []
+    },
+    {
+      "name": "Real Oviedo",
+      "league": "La Liga",
+      "sportsDbName": "Real Oviedo",
+      "aliases": []
+    },
+    {
+      "name": "Real Sociedad",
+      "league": "La Liga",
+      "sportsDbName": "Real Sociedad",
+      "aliases": []
+    },
+    {
+      "name": "Sevilla",
+      "league": "La Liga",
+      "sportsDbName": "Sevilla FC",
+      "aliases": []
+    },
+    {
+      "name": "Valencia",
+      "league": "La Liga",
+      "sportsDbName": "Valencia CF",
+      "aliases": []
+    },
+    {
+      "name": "Villarreal",
+      "league": "La Liga",
+      "sportsDbName": "Villarreal CF",
+      "aliases": []
+    },
+    {
+      "name": "Bayern Munich",
+      "league": "Bundesliga",
+      "sportsDbName": "Bayern Munich",
+      "aliases": []
+    },
+    {
+      "name": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "sportsDbName": "Borussia Dortmund",
+      "aliases": [
+        "bvb",
+        "dortmund"
+      ]
+    },
+    {
+      "name": "RB Leipzig",
+      "league": "Bundesliga",
+      "sportsDbName": "RB Leipzig",
+      "aliases": [
+        "leipzig"
+      ]
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "league": "Bundesliga",
+      "sportsDbName": "Bayer Leverkusen",
+      "aliases": [
+        "leverkusen"
+      ]
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "sportsDbName": "Eintracht Frankfurt",
+      "aliases": [
+        "frankfurt"
+      ]
+    },
+    {
+      "name": "VfL Wolfsburg",
+      "league": "Bundesliga",
+      "sportsDbName": "VfL Wolfsburg",
+      "aliases": [
+        "wolfsburg"
+      ]
+    },
+    {
+      "name": "Borussia Monchengladbach",
+      "league": "Bundesliga",
+      "sportsDbName": "Borussia Monchengladbach",
+      "aliases": [
+        "gladbach"
+      ]
+    },
+    {
+      "name": "VfB Stuttgart",
+      "league": "Bundesliga",
+      "sportsDbName": "VfB Stuttgart",
+      "aliases": [
+        "stuttgart"
+      ]
+    },
+    {
+      "name": "Werder Bremen",
+      "league": "Bundesliga",
+      "sportsDbName": "Werder Bremen",
+      "aliases": [
+        "bremen"
+      ]
+    },
+    {
+      "name": "Union Berlin",
+      "league": "Bundesliga",
+      "sportsDbName": "1. FC Union Berlin",
+      "aliases": []
+    },
+    {
+      "name": "Freiburg",
+      "league": "Bundesliga",
+      "sportsDbName": "SC Freiburg",
+      "aliases": []
+    },
+    {
+      "name": "Mainz 05",
+      "league": "Bundesliga",
+      "sportsDbName": "1. FSV Mainz 05",
+      "aliases": []
+    },
+    {
+      "name": "Augsburg",
+      "league": "Bundesliga",
+      "sportsDbName": "FC Augsburg",
+      "aliases": []
+    },
+    {
+      "name": "Hoffenheim",
+      "league": "Bundesliga",
+      "sportsDbName": "TSG 1899 Hoffenheim",
+      "aliases": []
+    },
+    {
+      "name": "Heidenheim",
+      "league": "Bundesliga",
+      "sportsDbName": "1. FC Heidenheim",
+      "aliases": []
+    },
+    {
+      "name": "FC Koln",
+      "league": "Bundesliga",
+      "sportsDbName": "1. FC Koln",
+      "aliases": [
+        "cologne"
+      ]
+    },
+    {
+      "name": "St Pauli",
+      "league": "Bundesliga",
+      "sportsDbName": "FC St. Pauli",
+      "aliases": []
+    },
+    {
+      "name": "Hamburger SV",
+      "league": "Bundesliga",
+      "sportsDbName": "Hamburger SV",
+      "aliases": [
+        "hamburg"
+      ]
+    },
+    {
+      "name": "Juventus",
+      "league": "Serie A",
+      "sportsDbName": "Juventus",
+      "aliases": []
+    },
+    {
+      "name": "Inter Milan",
+      "league": "Serie A",
+      "sportsDbName": "Inter Milan",
+      "aliases": [
+        "inter",
+        "internazionale"
+      ]
+    },
+    {
+      "name": "AC Milan",
+      "league": "Serie A",
+      "sportsDbName": "AC Milan",
+      "aliases": [
+        "milan"
+      ]
+    },
+    {
+      "name": "Napoli",
+      "league": "Serie A",
+      "sportsDbName": "SSC Napoli",
+      "aliases": []
+    },
+    {
+      "name": "Roma",
+      "league": "Serie A",
+      "sportsDbName": "AS Roma",
+      "aliases": []
+    },
+    {
+      "name": "Lazio",
+      "league": "Serie A",
+      "sportsDbName": "SS Lazio",
+      "aliases": []
+    },
+    {
+      "name": "Atalanta",
+      "league": "Serie A",
+      "sportsDbName": "Atalanta",
+      "aliases": []
+    },
+    {
+      "name": "Fiorentina",
+      "league": "Serie A",
+      "sportsDbName": "ACF Fiorentina",
+      "aliases": []
+    },
+    {
+      "name": "Bologna",
+      "league": "Serie A",
+      "sportsDbName": "Bologna FC",
+      "aliases": []
+    },
+    {
+      "name": "Torino",
+      "league": "Serie A",
+      "sportsDbName": "Torino FC",
+      "aliases": []
+    },
+    {
+      "name": "Udinese",
+      "league": "Serie A",
+      "sportsDbName": "Udinese",
+      "aliases": []
+    },
+    {
+      "name": "Sassuolo",
+      "league": "Serie A",
+      "sportsDbName": "US Sassuolo",
+      "aliases": []
+    },
+    {
+      "name": "Genoa",
+      "league": "Serie A",
+      "sportsDbName": "Genoa CFC",
+      "aliases": []
+    },
+    {
+      "name": "Cagliari",
+      "league": "Serie A",
+      "sportsDbName": "Cagliari Calcio",
+      "aliases": []
+    },
+    {
+      "name": "Verona",
+      "league": "Serie A",
+      "sportsDbName": "Hellas Verona",
+      "aliases": []
+    },
+    {
+      "name": "Parma",
+      "league": "Serie A",
+      "sportsDbName": "Parma Calcio 1913",
+      "aliases": []
+    },
+    {
+      "name": "Lecce",
+      "league": "Serie A",
+      "sportsDbName": "US Lecce",
+      "aliases": []
+    },
+    {
+      "name": "Como",
+      "league": "Serie A",
+      "sportsDbName": "Como 1907",
+      "aliases": []
+    },
+    {
+      "name": "Cremonese",
+      "league": "Serie A",
+      "sportsDbName": "US Cremonese",
+      "aliases": []
+    },
+    {
+      "name": "Pisa",
+      "league": "Serie A",
+      "sportsDbName": "Pisa SC",
+      "aliases": []
+    },
+    {
+      "name": "PSG",
+      "league": "Ligue 1",
+      "sportsDbName": "Paris Saint-Germain",
+      "aliases": [
+        "paris saint-germain",
+        "paris sg"
+      ]
+    },
+    {
+      "name": "Monaco",
+      "league": "Ligue 1",
+      "sportsDbName": "AS Monaco",
+      "aliases": []
+    },
+    {
+      "name": "Marseille",
+      "league": "Ligue 1",
+      "sportsDbName": "Olympique Marseille",
+      "aliases": []
+    },
+    {
+      "name": "Lyon",
+      "league": "Ligue 1",
+      "sportsDbName": "Olympique Lyonnais",
+      "aliases": []
+    },
+    {
+      "name": "Lille",
+      "league": "Ligue 1",
+      "sportsDbName": "LOSC Lille",
+      "aliases": []
+    },
+    {
+      "name": "Nice",
+      "league": "Ligue 1",
+      "sportsDbName": "OGC Nice",
+      "aliases": []
+    },
+    {
+      "name": "Lens",
+      "league": "Ligue 1",
+      "sportsDbName": "RC Lens",
+      "aliases": []
+    },
+    {
+      "name": "Rennes",
+      "league": "Ligue 1",
+      "sportsDbName": "Stade Rennais",
+      "aliases": []
+    },
+    {
+      "name": "Strasbourg",
+      "league": "Ligue 1",
+      "sportsDbName": "RC Strasbourg",
+      "aliases": []
+    },
+    {
+      "name": "Toulouse",
+      "league": "Ligue 1",
+      "sportsDbName": "Toulouse FC",
+      "aliases": []
+    },
+    {
+      "name": "Nantes",
+      "league": "Ligue 1",
+      "sportsDbName": "FC Nantes",
+      "aliases": []
+    },
+    {
+      "name": "Brest",
+      "league": "Ligue 1",
+      "sportsDbName": "Stade Brestois",
+      "aliases": []
+    },
+    {
+      "name": "Auxerre",
+      "league": "Ligue 1",
+      "sportsDbName": "AJ Auxerre",
+      "aliases": []
+    },
+    {
+      "name": "Angers",
+      "league": "Ligue 1",
+      "sportsDbName": "Angers SCO",
+      "aliases": []
+    },
+    {
+      "name": "Le Havre",
+      "league": "Ligue 1",
+      "sportsDbName": "Le Havre AC",
+      "aliases": []
+    },
+    {
+      "name": "Metz",
+      "league": "Ligue 1",
+      "sportsDbName": "FC Metz",
+      "aliases": []
+    },
+    {
+      "name": "Paris FC",
+      "league": "Ligue 1",
+      "sportsDbName": "Paris FC",
+      "aliases": []
+    },
+    {
+      "name": "Lorient",
+      "league": "Ligue 1",
+      "sportsDbName": "FC Lorient",
+      "aliases": []
+    },
+    {
+      "name": "Galatasaray",
+      "league": "Süper Lig",
+      "sportsDbName": "Galatasaray",
+      "aliases": []
+    },
+    {
+      "name": "Fenerbahce",
+      "league": "Süper Lig",
+      "sportsDbName": "Fenerbahce",
+      "aliases": [
+        "fenerbahçe"
+      ]
+    },
+    {
+      "name": "Besiktas",
+      "league": "Süper Lig",
+      "sportsDbName": "Besiktas",
+      "aliases": [
+        "beşiktaş"
+      ]
+    },
+    {
+      "name": "Trabzonspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Trabzonspor",
+      "aliases": []
+    },
+    {
+      "name": "Basaksehir",
+      "league": "Süper Lig",
+      "sportsDbName": "Istanbul Basaksehir",
+      "aliases": [
+        "başakşehir",
+        "istanbul basaksehir"
+      ]
+    },
+    {
+      "name": "Samsunspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Samsunspor",
+      "aliases": []
+    },
+    {
+      "name": "Kasimpasa",
+      "league": "Süper Lig",
+      "sportsDbName": "Kasimpasa",
+      "aliases": [
+        "kasımpaşa"
+      ]
+    },
+    {
+      "name": "Kayserispor",
+      "league": "Süper Lig",
+      "sportsDbName": "Kayserispor",
+      "aliases": []
+    },
+    {
+      "name": "Antalyaspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Antalyaspor",
+      "aliases": []
+    },
+    {
+      "name": "Alanyaspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Alanyaspor",
+      "aliases": []
+    },
+    {
+      "name": "Sivasspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Sivasspor",
+      "aliases": []
+    },
+    {
+      "name": "Konyaspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Konyaspor",
+      "aliases": []
+    },
+    {
+      "name": "Gaziantep FK",
+      "league": "Süper Lig",
+      "sportsDbName": "Gaziantep FK",
+      "aliases": []
+    },
+    {
+      "name": "Rizespor",
+      "league": "Süper Lig",
+      "sportsDbName": "Caykur Rizespor",
+      "aliases": [
+        "çaykur rizespor"
+      ]
+    },
+    {
+      "name": "Goztepe",
+      "league": "Süper Lig",
+      "sportsDbName": "Goztepe",
+      "aliases": [
+        "göztepe"
+      ]
+    },
+    {
+      "name": "Genclerbirligi",
+      "league": "Süper Lig",
+      "sportsDbName": "Genclerbirligi",
+      "aliases": [
+        "gençlerbirliği"
+      ]
+    },
+    {
+      "name": "Eyupspor",
+      "league": "Süper Lig",
+      "sportsDbName": "Eyupspor",
+      "aliases": [
+        "eyüpspor"
+      ]
+    },
+    {
+      "name": "Kocaelispor",
+      "league": "Süper Lig",
+      "sportsDbName": "Kocaelispor",
+      "aliases": []
+    },
+    {
+      "name": "Fatih Karagumruk",
+      "league": "Süper Lig",
+      "sportsDbName": "Fatih Karagumruk",
+      "aliases": [
+        "karagümrük"
+      ]
+    },
+    {
+      "name": "Al-Hilal",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Hilal",
+      "aliases": []
+    },
+    {
+      "name": "Al-Nassr",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Nassr",
+      "aliases": []
+    },
+    {
+      "name": "Al-Ittihad",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Ittihad Jeddah",
+      "aliases": []
+    },
+    {
+      "name": "Al-Ahli",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Ahli Saudi",
+      "aliases": []
+    },
+    {
+      "name": "Al-Shabab",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Shabab Riyadh",
+      "aliases": []
+    },
+    {
+      "name": "Al-Taawoun",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Taawoun",
+      "aliases": []
+    },
+    {
+      "name": "Al-Fateh",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Fateh",
+      "aliases": []
+    },
+    {
+      "name": "Al-Fayha",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Fayha",
+      "aliases": []
+    },
+    {
+      "name": "Al-Riyadh",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Riyadh SC",
+      "aliases": []
+    },
+    {
+      "name": "Al-Ettifaq",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Ettifaq",
+      "aliases": []
+    },
+    {
+      "name": "Al-Qadsiah",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Qadsiah",
+      "aliases": []
+    },
+    {
+      "name": "Al-Khaleej",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Khaleej Saihat",
+      "aliases": []
+    },
+    {
+      "name": "Al-Okhdood",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Okhdood",
+      "aliases": []
+    },
+    {
+      "name": "Damac",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Damac FC",
+      "aliases": []
+    },
+    {
+      "name": "Al-Kholood",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Kholood",
+      "aliases": []
+    },
+    {
+      "name": "Al-Najma",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Najma",
+      "aliases": []
+    },
+    {
+      "name": "Neom",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Neom SC",
+      "aliases": []
+    },
+    {
+      "name": "Al-Hazem",
+      "league": "Roshn Saudi Pro League",
+      "sportsDbName": "Al Hazem",
+      "aliases": []
+    }
+  ]
+}

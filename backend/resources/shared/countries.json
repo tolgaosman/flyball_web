@@ -1,0 +1,579 @@
+{
+  "countries": [
+    {
+      "name": "France",
+      "iso2": "fr",
+      "nameTr": "Fransa"
+    },
+    {
+      "name": "Spain",
+      "iso2": "es",
+      "nameTr": "İspanya"
+    },
+    {
+      "name": "England",
+      "iso2": "gb-eng",
+      "nameTr": "İngiltere"
+    },
+    {
+      "name": "Portugal",
+      "iso2": "pt",
+      "nameTr": "Portekiz"
+    },
+    {
+      "name": "Netherlands",
+      "iso2": "nl",
+      "nameTr": "Hollanda"
+    },
+    {
+      "name": "Belgium",
+      "iso2": "be",
+      "nameTr": "Belçika"
+    },
+    {
+      "name": "Germany",
+      "iso2": "de",
+      "nameTr": "Almanya"
+    },
+    {
+      "name": "Croatia",
+      "iso2": "hr",
+      "nameTr": "Hırvatistan"
+    },
+    {
+      "name": "Italy",
+      "iso2": "it",
+      "nameTr": "İtalya"
+    },
+    {
+      "name": "Switzerland",
+      "iso2": "ch",
+      "nameTr": "İsviçre"
+    },
+    {
+      "name": "Denmark",
+      "iso2": "dk",
+      "nameTr": "Danimarka"
+    },
+    {
+      "name": "Turkiye",
+      "iso2": "tr",
+      "nameTr": "Türkiye"
+    },
+    {
+      "name": "Austria",
+      "iso2": "at",
+      "nameTr": "Avusturya"
+    },
+    {
+      "name": "Norway",
+      "iso2": "no",
+      "nameTr": "Norveç"
+    },
+    {
+      "name": "Ukraine",
+      "iso2": "ua",
+      "nameTr": "Ukrayna"
+    },
+    {
+      "name": "Poland",
+      "iso2": "pl",
+      "nameTr": "Polonya"
+    },
+    {
+      "name": "Wales",
+      "iso2": "gb-wls",
+      "nameTr": "Galler"
+    },
+    {
+      "name": "Sweden",
+      "iso2": "se",
+      "nameTr": "İsveç"
+    },
+    {
+      "name": "Serbia",
+      "iso2": "rs",
+      "nameTr": "Sırbistan"
+    },
+    {
+      "name": "Czechia",
+      "iso2": "cz",
+      "nameTr": "Çekya"
+    },
+    {
+      "name": "Hungary",
+      "iso2": "hu",
+      "nameTr": "Macaristan"
+    },
+    {
+      "name": "Scotland",
+      "iso2": "gb-sct",
+      "nameTr": "İskoçya"
+    },
+    {
+      "name": "Greece",
+      "iso2": "gr",
+      "nameTr": "Yunanistan"
+    },
+    {
+      "name": "Slovakia",
+      "iso2": "sk",
+      "nameTr": "Slovakya"
+    },
+    {
+      "name": "Romania",
+      "iso2": "ro",
+      "nameTr": "Romanya"
+    },
+    {
+      "name": "Slovenia",
+      "iso2": "si",
+      "nameTr": "Slovenya"
+    },
+    {
+      "name": "Ireland",
+      "iso2": "ie",
+      "nameTr": "İrlanda"
+    },
+    {
+      "name": "Albania",
+      "iso2": "al",
+      "nameTr": "Arnavutluk"
+    },
+    {
+      "name": "Bosnia",
+      "iso2": "ba",
+      "nameTr": "Bosna Hersek"
+    },
+    {
+      "name": "N. Ireland",
+      "iso2": "gb-nir",
+      "nameTr": "Kuzey İrlanda"
+    },
+    {
+      "name": "Georgia",
+      "iso2": "ge",
+      "nameTr": "Gürcistan"
+    },
+    {
+      "name": "Finland",
+      "iso2": "fi",
+      "nameTr": "Finlandiya"
+    },
+    {
+      "name": "Iceland",
+      "iso2": "is",
+      "nameTr": "İzlanda"
+    },
+    {
+      "name": "North Macedonia",
+      "iso2": "mk",
+      "nameTr": "Kuzey Makedonya"
+    },
+    {
+      "name": "Russia",
+      "iso2": "ru",
+      "nameTr": "Rusya"
+    },
+    {
+      "name": "Montenegro",
+      "iso2": "me",
+      "nameTr": "Karadağ"
+    },
+    {
+      "name": "Bulgaria",
+      "iso2": "bg",
+      "nameTr": "Bulgaristan"
+    },
+    {
+      "name": "Kosovo",
+      "iso2": "xk",
+      "nameTr": "Kosova"
+    },
+    {
+      "name": "Cyprus",
+      "iso2": "cy",
+      "nameTr": "Kıbrıs"
+    },
+    {
+      "name": "Luxembourg",
+      "iso2": "lu",
+      "nameTr": "Lüksemburg"
+    },
+    {
+      "name": "Armenia",
+      "iso2": "am",
+      "nameTr": "Ermenistan"
+    },
+    {
+      "name": "Azerbaijan",
+      "iso2": "az",
+      "nameTr": "Azerbaycan"
+    },
+    {
+      "name": "Moldova",
+      "iso2": "md",
+      "nameTr": "Moldova"
+    },
+    {
+      "name": "Israel",
+      "iso2": "il",
+      "nameTr": "İsrail"
+    },
+    {
+      "name": "Latvia",
+      "iso2": "lv",
+      "nameTr": "Letonya"
+    },
+    {
+      "name": "Lithuania",
+      "iso2": "lt",
+      "nameTr": "Litvanya"
+    },
+    {
+      "name": "Estonia",
+      "iso2": "ee",
+      "nameTr": "Estonya"
+    },
+    {
+      "name": "Malta",
+      "iso2": "mt",
+      "nameTr": "Malta"
+    },
+    {
+      "name": "Belarus",
+      "iso2": "by",
+      "nameTr": "Belarus"
+    },
+    {
+      "name": "Argentina",
+      "iso2": "ar",
+      "nameTr": "Arjantin"
+    },
+    {
+      "name": "Brazil",
+      "iso2": "br",
+      "nameTr": "Brezilya"
+    },
+    {
+      "name": "Uruguay",
+      "iso2": "uy",
+      "nameTr": "Uruguay"
+    },
+    {
+      "name": "Colombia",
+      "iso2": "co",
+      "nameTr": "Kolombiya"
+    },
+    {
+      "name": "Ecuador",
+      "iso2": "ec",
+      "nameTr": "Ekvador"
+    },
+    {
+      "name": "Chile",
+      "iso2": "cl",
+      "nameTr": "Şili"
+    },
+    {
+      "name": "Paraguay",
+      "iso2": "py",
+      "nameTr": "Paraguay"
+    },
+    {
+      "name": "Peru",
+      "iso2": "pe",
+      "nameTr": "Peru"
+    },
+    {
+      "name": "Venezuela",
+      "iso2": "ve",
+      "nameTr": "Venezuela"
+    },
+    {
+      "name": "Bolivia",
+      "iso2": "bo",
+      "nameTr": "Bolivya"
+    },
+    {
+      "name": "Mexico",
+      "iso2": "mx",
+      "nameTr": "Meksika"
+    },
+    {
+      "name": "USA",
+      "iso2": "us",
+      "nameTr": "ABD"
+    },
+    {
+      "name": "Canada",
+      "iso2": "ca",
+      "nameTr": "Kanada"
+    },
+    {
+      "name": "Costa Rica",
+      "iso2": "cr",
+      "nameTr": "Kosta Rika"
+    },
+    {
+      "name": "Honduras",
+      "iso2": "hn",
+      "nameTr": "Honduras"
+    },
+    {
+      "name": "Jamaica",
+      "iso2": "jm",
+      "nameTr": "Jamaika"
+    },
+    {
+      "name": "Panama",
+      "iso2": "pa",
+      "nameTr": "Panama"
+    },
+    {
+      "name": "Morocco",
+      "iso2": "ma",
+      "nameTr": "Fas"
+    },
+    {
+      "name": "Senegal",
+      "iso2": "sn",
+      "nameTr": "Senegal"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "ng",
+      "nameTr": "Nijerya"
+    },
+    {
+      "name": "Algeria",
+      "iso2": "dz",
+      "nameTr": "Cezayir"
+    },
+    {
+      "name": "Egypt",
+      "iso2": "eg",
+      "nameTr": "Mısır"
+    },
+    {
+      "name": "Ivory Coast",
+      "iso2": "ci",
+      "nameTr": "Fildişi Sahili"
+    },
+    {
+      "name": "Cameroon",
+      "iso2": "cm",
+      "nameTr": "Kamerun"
+    },
+    {
+      "name": "Tunisia",
+      "iso2": "tn",
+      "nameTr": "Tunus"
+    },
+    {
+      "name": "DR Congo",
+      "iso2": "cd",
+      "nameTr": "Kongo DC"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ml",
+      "nameTr": "Mali"
+    },
+    {
+      "name": "South Africa",
+      "iso2": "za",
+      "nameTr": "Güney Afrika"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "gh",
+      "nameTr": "Gana"
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2": "bf",
+      "nameTr": "Burkina Faso"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "gn",
+      "nameTr": "Gine"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "zm",
+      "nameTr": "Zambiya"
+    },
+    {
+      "name": "Cape Verde",
+      "iso2": "cv",
+      "nameTr": "Yeşil Burun Adaları"
+    },
+    {
+      "name": "Gabon",
+      "iso2": "ga",
+      "nameTr": "Gabon"
+    },
+    {
+      "name": "Benin",
+      "iso2": "bj",
+      "nameTr": "Benin"
+    },
+    {
+      "name": "Angola",
+      "iso2": "ao",
+      "nameTr": "Angola"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "mz",
+      "nameTr": "Mozambik"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "iso2": "gq",
+      "nameTr": "Ekvator Ginesi"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "gw",
+      "nameTr": "Gine-Bissau"
+    },
+    {
+      "name": "Comoros",
+      "iso2": "km",
+      "nameTr": "Komorlar"
+    },
+    {
+      "name": "Congo",
+      "iso2": "cg",
+      "nameTr": "Kongo"
+    },
+    {
+      "name": "Japan",
+      "iso2": "jp",
+      "nameTr": "Japonya"
+    },
+    {
+      "name": "South Korea",
+      "iso2": "kr",
+      "nameTr": "Güney Kore"
+    },
+    {
+      "name": "Iran",
+      "iso2": "ir",
+      "nameTr": "İran"
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso2": "sa",
+      "nameTr": "Suudi Arabistan"
+    },
+    {
+      "name": "Australia",
+      "iso2": "au",
+      "nameTr": "Avustralya"
+    },
+    {
+      "name": "Qatar",
+      "iso2": "qa",
+      "nameTr": "Katar"
+    },
+    {
+      "name": "Iraq",
+      "iso2": "iq",
+      "nameTr": "Irak"
+    },
+    {
+      "name": "UAE",
+      "iso2": "ae",
+      "nameTr": "BAE"
+    },
+    {
+      "name": "Uzbekistan",
+      "iso2": "uz",
+      "nameTr": "Özbekistan"
+    },
+    {
+      "name": "Jordan",
+      "iso2": "jo",
+      "nameTr": "Ürdün"
+    },
+    {
+      "name": "China",
+      "iso2": "cn",
+      "nameTr": "Çin"
+    },
+    {
+      "name": "Syria",
+      "iso2": "sy",
+      "nameTr": "Suriye"
+    },
+    {
+      "name": "Oman",
+      "iso2": "om",
+      "nameTr": "Umman"
+    },
+    {
+      "name": "Kuwait",
+      "iso2": "kw",
+      "nameTr": "Kuveyt"
+    },
+    {
+      "name": "Bahrain",
+      "iso2": "bh",
+      "nameTr": "Bahreyn"
+    },
+    {
+      "name": "Vietnam",
+      "iso2": "vn",
+      "nameTr": "Vietnam"
+    },
+    {
+      "name": "Thailand",
+      "iso2": "th",
+      "nameTr": "Tayland"
+    },
+    {
+      "name": "India",
+      "iso2": "in",
+      "nameTr": "Hindistan"
+    },
+    {
+      "name": "Indonesia",
+      "iso2": "id",
+      "nameTr": "Endonezya"
+    },
+    {
+      "name": "Palestine",
+      "iso2": "ps",
+      "nameTr": "Filistin"
+    },
+    {
+      "name": "Lebanon",
+      "iso2": "lb",
+      "nameTr": "Lübnan"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "iso2": "kg",
+      "nameTr": "Kırgızistan"
+    },
+    {
+      "name": "Tajikistan",
+      "iso2": "tj",
+      "nameTr": "Tacikistan"
+    },
+    {
+      "name": "Turkmenistan",
+      "iso2": "tm",
+      "nameTr": "Türkmenistan"
+    },
+    {
+      "name": "New Zealand",
+      "iso2": "nz",
+      "nameTr": "Yeni Zelanda"
+    }
+  ]
+}

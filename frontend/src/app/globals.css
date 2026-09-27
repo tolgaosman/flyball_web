@@ -1,0 +1,160 @@
+@import 'tailwindcss';
+
+/* Night Pitch design tokens — ported 1:1 from the Flutter app_colors.dart / app_theme.dart. */
+@theme {
+  --color-bg: #14130f;
+  --color-surface: #1d1b14;
+  --color-surface-high: #272419;
+  --color-surface-low: #0a0906;
+  --color-green: #2fd16b;
+  --color-green-dim: #1b7a42;
+  --color-gold: #f0b429;
+  --color-gold-dim: #9c6e13;
+  --color-line: #3a3526;
+  --color-line-high: #534b34;
+  --color-text: #f6f1e6;
+  --color-muted: #a79c86;
+  --color-danger: #ff5a4e;
+
+  --font-display: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-card: 20px;
+  --radius-chip: 12px;
+
+  --ease-out-circ: cubic-bezier(0.075, 0.82, 0.165, 1);
+  --ease-emphasized: cubic-bezier(0.18, 1, 0.04, 1);
+
+  --shadow-soft: 0 8px 24px -4px rgb(0 0 0 / 0.4), 0 2px 8px -2px rgb(0 0 0 / 0.2);
+  --shadow-soft-lg: 0 16px 48px -8px rgb(0 0 0 / 0.5), 0 4px 16px -4px rgb(0 0 0 / 0.3);
+
+  --animate-fade-in: fade-in 250ms ease-out;
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/* Type scale (px letter-spacing, as in AppTheme). Display sizes grow fluidly on wide screens. */
+@utility text-display-xl {
+  font-family: var(--font-display);
+  font-size: clamp(48px, 5.2vw, 96px);
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -1.2px;
+}
+@utility text-display {
+  font-family: var(--font-display);
+  font-size: clamp(36px, 3.4vw, 56px);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -1px;
+}
+@utility text-title {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.6px;
+}
+@utility text-headline {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.6px;
+}
+@utility text-body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.2px;
+}
+@utility text-caption {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: -0.2px;
+}
+@utility text-overline {
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 1.2px;
+}
+@utility font-heading {
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.6px;
+}
+
+/* glowShadow(color): set --glow on the element (defaults to pitch green). */
+@utility shadow-glow {
+  box-shadow:
+    0 2px 10px -1px color-mix(in srgb, var(--glow, var(--color-green)) 17.5%, transparent),
+    0 4px 12px -2px rgb(0 0 0 / 0.2),
+    0 1px 4px -1px rgb(0 0 0 / 0.1);
+}
+@utility shadow-glow-lg {
+  box-shadow:
+    0 8px 40px -4px color-mix(in srgb, var(--glow, var(--color-green)) 35%, transparent),
+    var(--shadow-soft-lg);
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    background: var(--color-bg);
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    min-height: 100dvh;
+    -webkit-font-smoothing: antialiased;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-green);
+    outline-offset: 3px;
+  }
+  button:not(:disabled) {
+    cursor: pointer;
+  }
+  ::selection {
+    background: color-mix(in srgb, var(--color-green) 35%, transparent);
+  }
+}
+
+.icon {
+  font-family: 'Material Symbols Rounded';
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  direction: ltr;
+  font-feature-settings: 'liga';
+  font-variation-settings: 'FILL' 1, 'wght' 500, 'GRAD' 0, 'opsz' 24;
+  user-select: none;
+}
+.icon-outline {
+  font-variation-settings: 'FILL' 0, 'wght' 500, 'GRAD' 0, 'opsz' 24;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

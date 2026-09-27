@@ -1,0 +1,23 @@
+{
+  "username": {
+    "minLength": 3,
+    "maxLength": 20,
+    "pattern": "^[A-Za-z0-9_.]+$"
+  },
+  "password": {
+    "minLength": 8,
+    "maxLength": 128
+  },
+  "displayName": {
+    "maxLength": 24
+  },
+  "errors": {
+    "invalidUsername": "invalid_username",
+    "weakPassword": "weak_password",
+    "invalidDisplayName": "invalid_display_name",
+    "usernameTaken": "username_taken",
+    "invalidCredentials": "invalid_credentials",
+    "tooManyAttempts": "too_many_attempts",
+    "unauthorized": "unauthorized"
+  }
+}

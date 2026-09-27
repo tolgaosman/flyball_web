@@ -1,0 +1,54 @@
+{
+  "leagues": [
+    {
+      "name": "Premier League",
+      "sportsDbLeagueId": 4328
+    },
+    {
+      "name": "La Liga",
+      "sportsDbLeagueId": 4335
+    },
+    {
+      "name": "Bundesliga",
+      "sportsDbLeagueId": 4331
+    },
+    {
+      "name": "Serie A",
+      "sportsDbLeagueId": 4332
+    },
+    {
+      "name": "Ligue 1",
+      "sportsDbLeagueId": 4334
+    },
+    {
+      "name": "Süper Lig",
+      "sportsDbLeagueId": 4339
+    },
+    {
+      "name": "Roshn Saudi Pro League",
+      "sportsDbLeagueId": 4668
+    }
+  ],
+  "internationalTournaments": [
+    {
+      "name": "World Cup",
+      "sportsDbLeagueId": 4429
+    },
+    {
+      "name": "Euros",
+      "sportsDbLeagueId": 4502
+    },
+    {
+      "name": "Copa America",
+      "sportsDbLeagueId": null
+    },
+    {
+      "name": "Champions League",
+      "sportsDbLeagueId": 4480
+    },
+    {
+      "name": "Europa League",
+      "sportsDbLeagueId": 4481
+    }
+  ]
+}
